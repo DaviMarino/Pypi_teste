@@ -1,0 +1,9 @@
+LICENCE
+README.md
+setup.py
+Pypi_teste/__init__.py
+Pypi_teste/meu_nome.py
+pypi_teste.egg-info/PKG-INFO
+pypi_teste.egg-info/SOURCES.txt
+pypi_teste.egg-info/dependency_links.txt
+pypi_teste.egg-info/top_level.txt
