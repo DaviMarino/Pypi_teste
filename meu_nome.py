@@ -1,0 +1,2 @@
+class MeuNome:
+  NOME = 'Davi'
